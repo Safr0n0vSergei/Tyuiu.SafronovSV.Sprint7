@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Tyuiu.PostikaAO.Sprint7-master\Tyuiu.PostikaAO.Sprint7.Project.V9.Lib\bin\Debug\Tyuiu.SafronovSV.Sprint7.Project.V9.Lib.dll
+C:\Users\user\Desktop\Tyuiu.PostikaAO.Sprint7-master\Tyuiu.PostikaAO.Sprint7.Project.V9.Lib\bin\Debug\Tyuiu.SafronovSV.Sprint7.Project.V9.Lib.pdb
+C:\Users\user\Desktop\Tyuiu.PostikaAO.Sprint7-master\Tyuiu.PostikaAO.Sprint7.Project.V9.Lib\obj\Debug\Tyuiu.SafronovSV.Sprint7.Project.V9.Lib.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Tyuiu.PostikaAO.Sprint7-master\Tyuiu.PostikaAO.Sprint7.Project.V9.Lib\obj\Debug\Tyuiu.SafronovSV.Sprint7.Project.V9.Lib.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Tyuiu.PostikaAO.Sprint7-master\Tyuiu.PostikaAO.Sprint7.Project.V9.Lib\obj\Debug\Tyuiu.SafronovSV.Sprint7.Project.V9.Lib.dll
+C:\Users\user\Desktop\Tyuiu.PostikaAO.Sprint7-master\Tyuiu.PostikaAO.Sprint7.Project.V9.Lib\obj\Debug\Tyuiu.SafronovSV.Sprint7.Project.V9.Lib.pdb
